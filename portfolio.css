@@ -335,6 +335,32 @@ section{
 section.project {
     height: 60vh;
 }
+/* project */
+.project{
+    margin-left: 300px;
+}
+.project ul{
+    margin-left: 30px;
+    list-style-type: decimal;
+}
+.project ul li {
+    display: flex;
+    justify-content: normal;
+    margin-left: 160px;
+}
+.project ul div li i {
+    margin: 5px 5px 5px 5px;
+    
+   
+}
+.project ul div li a {
+    margin: 5px 5px 5px 5px;
+    
+   
+}
+.project ul div {
+    margin-top: 50px;
+}
 
 
 
